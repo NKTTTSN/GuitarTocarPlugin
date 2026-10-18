@@ -21,4 +21,4 @@
 ##  Как собрать проект (Build Instructions)
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/NKTTSN/GuitarTocarPlugin.git
+   git clone https://github.com/NKTTTSN/GuitarTocarPlugin.git
