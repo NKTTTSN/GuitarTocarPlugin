@@ -1,0 +1,9 @@
+Builds/
+*.user
+.vs/
+*.obj
+*.exe
+*.dll
+*.pdb
+*.vst3
+.DS_Store
